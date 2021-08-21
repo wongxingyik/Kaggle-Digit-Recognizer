@@ -5,4 +5,7 @@ bin/
 lib/
 etc/
 share/
-
+conda-meta/
+*.nonadmin
+conda-meta/
+*.ipynb_checkpoints/
